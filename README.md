@@ -1,2 +1,2 @@
-# plAFT_GIC_TVC
-R functions for semiparametric AFT model estimation with general interval-censored failure time and time-varying covariates
+# plAFT_PIC_TVC
+R functions for semiparametric AFT model estimation with partly interval-censored failure time and time-varying covariates
